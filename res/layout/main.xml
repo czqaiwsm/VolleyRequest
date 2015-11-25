@@ -9,5 +9,12 @@
             android:layout_height="wrap_content"
             android:text="Hello World, MyActivity"
             />
+
+     <EditText android:layout_width="match_parent"
+               android:layout_height="150px"
+               android:textSize="20sp"
+               style="@style/editStyle"
+               android:text="Hello World, MyActivity"/>
+
 </LinearLayout>
 
